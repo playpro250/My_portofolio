@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header{
+    background-color: lime;
+    border: 5px solid black;
+    font-size: 50px;
+    border-radius: 10%;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+.link-nav{
+    font-size: 20px;
+    background-color: mediumaquamarine;
+    border: 5px solid black;
+    border-radius: 10%;
+
+}
+
+
+
+
+
+
